@@ -1,0 +1,369 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Tourney-Black.ttf",
+      "sha1": "b4110bea5293c42c482088ecc9d7785ee742cda6"
+    },
+    {
+      "path": "assets/fonts/Tourney-BlackItalic.ttf",
+      "sha1": "fe98bde6675f13db61e812aa86f20abc7e97d571"
+    },
+    {
+      "path": "assets/fonts/Tourney-Bold.ttf",
+      "sha1": "cfefa4d10ab89f17a2592f71c02f4bd717870e83"
+    },
+    {
+      "path": "assets/fonts/Tourney-BoldItalic.ttf",
+      "sha1": "a5ccc4d8fa78454272f25530d4b228e3c26c06bb"
+    },
+    {
+      "path": "assets/fonts/Tourney-ExtraBold.ttf",
+      "sha1": "b9f3639f244ae03a2c3f7b7e7c08e5e96828f759"
+    },
+    {
+      "path": "assets/fonts/Tourney-ExtraBoldItalic.ttf",
+      "sha1": "b9ac7760008861c56a19f6b7f4a1451c2eac86ef"
+    },
+    {
+      "path": "assets/fonts/Tourney-ExtraLight.ttf",
+      "sha1": "82c797d3ddcba8dcde6ffe20bd2b2c623fbf0bca"
+    },
+    {
+      "path": "assets/fonts/Tourney-ExtraLightItalic.ttf",
+      "sha1": "58343c2666f5353f20662e73c00092d17762e75a"
+    },
+    {
+      "path": "assets/fonts/Tourney-Italic.ttf",
+      "sha1": "7073fdac06518412c0fb638702a07fc9d70d189f"
+    },
+    {
+      "path": "assets/fonts/Tourney-Light.ttf",
+      "sha1": "2f6f195104b8278ff1d54c05705ba12a0acde042"
+    },
+    {
+      "path": "assets/fonts/Tourney-LightItalic.ttf",
+      "sha1": "031e34a4bf5aa0cb7477e8fa9f32887d25182f4d"
+    },
+    {
+      "path": "assets/fonts/Tourney-Medium.ttf",
+      "sha1": "151601b2d20934826fe2f6159e060d3ca9db9019"
+    },
+    {
+      "path": "assets/fonts/Tourney-MediumItalic.ttf",
+      "sha1": "0f9fd83ed495bbca4c41ff7557dc2f6db8b0cc64"
+    },
+    {
+      "path": "assets/fonts/Tourney-Regular.ttf",
+      "sha1": "9f79193de0bccfff7a30f49d13e04a1d59036121"
+    },
+    {
+      "path": "assets/fonts/Tourney-SemiBold.ttf",
+      "sha1": "4bb9d98470e5a279d1313f9c3795544c865accdf"
+    },
+    {
+      "path": "assets/fonts/Tourney-SemiBoldItalic.ttf",
+      "sha1": "55936426eb85d997d29d2a1e951ab2ddbe926f84"
+    },
+    {
+      "path": "assets/fonts/Tourney-Thin.ttf",
+      "sha1": "969f807d37ff9e12f725ff56b37e3ac88cc92a54"
+    },
+    {
+      "path": "assets/fonts/Tourney-ThinItalic.ttf",
+      "sha1": "e3e91a9022a99aadebe0f594380906d099868924"
+    },
+    {
+      "path": "assets/fonts/Tourney.ttf",
+      "sha1": "2f6f195104b8278ff1d54c05705ba12a0acde042"
+    },
+    {
+      "path": "assets/fonts/Tourney_Condensed-Black.ttf",
+      "sha1": "78f5c810b244818b9272641e49447a169b4b55ca"
+    },
+    {
+      "path": "assets/fonts/Tourney_Condensed-BlackItalic.ttf",
+      "sha1": "903ec70882527a8453b76b9d837168b2661d9f70"
+    },
+    {
+      "path": "assets/fonts/Tourney_Condensed-Bold.ttf",
+      "sha1": "b27f64d6ca9cb30267c890b6259ef4f0c2aaf841"
+    },
+    {
+      "path": "assets/fonts/Tourney_Condensed-BoldItalic.ttf",
+      "sha1": "c8bde7655a47608d6ff5bb6cefcdbd99f8db1cd8"
+    },
+    {
+      "path": "assets/fonts/Tourney_Condensed-ExtraBold.ttf",
+      "sha1": "baf123da655caf73cdb844efc1accac5a88431c2"
+    },
+    {
+      "path": "assets/fonts/Tourney_Condensed-ExtraBoldItalic.ttf",
+      "sha1": "253291727159b84f95264f73901e5512fc821537"
+    },
+    {
+      "path": "assets/fonts/Tourney_Condensed-ExtraLight.ttf",
+      "sha1": "57f46c5b5d289e4b906dff5c88f5013798c52369"
+    },
+    {
+      "path": "assets/fonts/Tourney_Condensed-ExtraLightItalic.ttf",
+      "sha1": "8fc7d09c41e74a166cdf2c0187fc88af201055ae"
+    },
+    {
+      "path": "assets/fonts/Tourney_Condensed-Italic.ttf",
+      "sha1": "8f7f93bf6ac6551777d383cb68150d3c7413f77e"
+    },
+    {
+      "path": "assets/fonts/Tourney_Condensed-Light.ttf",
+      "sha1": "809bd03cacd5175ab594ff4ff195dce5f1aeab69"
+    },
+    {
+      "path": "assets/fonts/Tourney_Condensed-LightItalic.ttf",
+      "sha1": "11a465ce1b0da16fe4054b4b6787e01b33702ba5"
+    },
+    {
+      "path": "assets/fonts/Tourney_Condensed-Medium.ttf",
+      "sha1": "170847234420a2e2c3259ef0823d91c1f5686ab1"
+    },
+    {
+      "path": "assets/fonts/Tourney_Condensed-MediumItalic.ttf",
+      "sha1": "527b15a91f210087e0afd9e49af8321a039b3f69"
+    },
+    {
+      "path": "assets/fonts/Tourney_Condensed-Regular.ttf",
+      "sha1": "3b1c5efd5d79349efdb22d34e84b237b29eca02e"
+    },
+    {
+      "path": "assets/fonts/Tourney_Condensed-SemiBold.ttf",
+      "sha1": "f0b79bfd6a5681a08039d075d3a920734015c5dd"
+    },
+    {
+      "path": "assets/fonts/Tourney_Condensed-SemiBoldItalic.ttf",
+      "sha1": "eb0e63a4c2057d48a6a96bf57eb0a1f28d9dd216"
+    },
+    {
+      "path": "assets/fonts/Tourney_Condensed-Thin.ttf",
+      "sha1": "87806415680160705d8685e12505e4c799e27e3e"
+    },
+    {
+      "path": "assets/fonts/Tourney_Condensed-ThinItalic.ttf",
+      "sha1": "f70bed45e7b87e3ab023c83bcec2dd9b8001a345"
+    },
+    {
+      "path": "assets/fonts/Tourney_Expanded-Black.ttf",
+      "sha1": "aecee9d91542f6f2647e1da8f908e436bf84711c"
+    },
+    {
+      "path": "assets/fonts/Tourney_Expanded-BlackItalic.ttf",
+      "sha1": "ad61fa6b005e5f6f0d5143efb7c5e7dd6cc2570c"
+    },
+    {
+      "path": "assets/fonts/Tourney_Expanded-Bold.ttf",
+      "sha1": "84988ab282e324f15165168ff89bef0be06ca238"
+    },
+    {
+      "path": "assets/fonts/Tourney_Expanded-BoldItalic.ttf",
+      "sha1": "b7fe356adad4806d35a56bdcf3427564055aeba8"
+    },
+    {
+      "path": "assets/fonts/Tourney_Expanded-ExtraBold.ttf",
+      "sha1": "a59f6a40a88a93e7a160d415660fa6923dd1608f"
+    },
+    {
+      "path": "assets/fonts/Tourney_Expanded-ExtraBoldItalic.ttf",
+      "sha1": "b26533e0ef2f695968a1a500ba6eead0c6f66ff4"
+    },
+    {
+      "path": "assets/fonts/Tourney_Expanded-ExtraLight.ttf",
+      "sha1": "3694d7af3192f9a32c7acbe9f7f44bc2ab41c5b4"
+    },
+    {
+      "path": "assets/fonts/Tourney_Expanded-ExtraLightItalic.ttf",
+      "sha1": "2e14225c24f1b495251ead6737218c8ca500e6d0"
+    },
+    {
+      "path": "assets/fonts/Tourney_Expanded-Italic.ttf",
+      "sha1": "ab2b2f4819571d6322c594aa1048cd3e003b83eb"
+    },
+    {
+      "path": "assets/fonts/Tourney_Expanded-Light.ttf",
+      "sha1": "4b8b9720b9e87eeba942f904e19969e9300e07c2"
+    },
+    {
+      "path": "assets/fonts/Tourney_Expanded-LightItalic.ttf",
+      "sha1": "d258b3ca6134a189402c2c8696fa822f2624fe51"
+    },
+    {
+      "path": "assets/fonts/Tourney_Expanded-Medium.ttf",
+      "sha1": "70adaec5dc87d22087f7e1d442f6495d4078897c"
+    },
+    {
+      "path": "assets/fonts/Tourney_Expanded-MediumItalic.ttf",
+      "sha1": "d5c60031b4409f742ff8702f7eeb968971704f47"
+    },
+    {
+      "path": "assets/fonts/Tourney_Expanded-Regular.ttf",
+      "sha1": "a300dbd3884e5a77091e0d38a71e678cdc205f88"
+    },
+    {
+      "path": "assets/fonts/Tourney_Expanded-SemiBold.ttf",
+      "sha1": "5dc57e07a7dd7714357ee5fd3ad238317d537311"
+    },
+    {
+      "path": "assets/fonts/Tourney_Expanded-SemiBoldItalic.ttf",
+      "sha1": "9d7e7683888f41f184308d6935151acdf5dc0586"
+    },
+    {
+      "path": "assets/fonts/Tourney_Expanded-Thin.ttf",
+      "sha1": "efc858601b5d7b3b4c2342e37307f86e0fae84a8"
+    },
+    {
+      "path": "assets/fonts/Tourney_Expanded-ThinItalic.ttf",
+      "sha1": "eb2c470649db032690507b0c1a2ec773330afdfb"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiCondensed-Black.ttf",
+      "sha1": "abf3cd5ff4469b6c3a7510f8a50fb693cae01557"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiCondensed-BlackItalic.ttf",
+      "sha1": "b9ef2eabccff7589eaa68bf9018477f64acd9c58"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiCondensed-Bold.ttf",
+      "sha1": "872ec8711ffec34ecfd66677f9f91a183b77093e"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiCondensed-BoldItalic.ttf",
+      "sha1": "5c5ea1de0d253daa348c2982c1025ed4692470c5"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiCondensed-ExtraBold.ttf",
+      "sha1": "f9404627c9f0c2c8c788315e0a24de5d5f933296"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiCondensed-ExtraBoldItalic.ttf",
+      "sha1": "e3659cf6ff1cd1415f6accc34c7de58822530aa5"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiCondensed-ExtraLight.ttf",
+      "sha1": "d7c78006ac2ce2932b5bd366fe858b98795902a7"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiCondensed-ExtraLightItalic.ttf",
+      "sha1": "d34b34d4ea22f5e63f97b622ac76ef0a9bf5bd8c"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiCondensed-Italic.ttf",
+      "sha1": "0dcb26c03c71769a315fd2473d75afd68b38e508"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiCondensed-Light.ttf",
+      "sha1": "10e6d006f91ab5dc3f9a473b0d55c120be914e37"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiCondensed-LightItalic.ttf",
+      "sha1": "20d592c92483e1e13d1eada15439a1f8916dbf6b"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiCondensed-Medium.ttf",
+      "sha1": "3d03a6d52c26d12de43be79fc2747a00a75db2f0"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiCondensed-MediumItalic.ttf",
+      "sha1": "75eafb86f363bfa78253e6067518d4235fab59b8"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiCondensed-Regular.ttf",
+      "sha1": "048dfb8a340ef845b89ec944f0cdc3ef96dcb779"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiCondensed-SemiBold.ttf",
+      "sha1": "37c2cb632e942dfcb4f54582a24fb930b6936d88"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiCondensed-SemiBoldItalic.ttf",
+      "sha1": "960e6b5a253fb5e811dc595eb3457cf6c52a87f3"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiCondensed-Thin.ttf",
+      "sha1": "50394fc67323aa57f47960e90f29904a65ef8908"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiCondensed-ThinItalic.ttf",
+      "sha1": "4f1a3b61308a2817313c3456895f002662c717d3"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiExpanded-Black.ttf",
+      "sha1": "98ee327d4bde0dad4bb430d68b412df5c7a836ba"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiExpanded-BlackItalic.ttf",
+      "sha1": "115e7e828dbcdbf086ba03113de35012bed59d08"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiExpanded-Bold.ttf",
+      "sha1": "09a97c9fef85ea6109c06ab2429b2e1385254c87"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiExpanded-BoldItalic.ttf",
+      "sha1": "199fb9b4ae3dd82aa9d0c70106479eff2ffba484"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiExpanded-ExtraBold.ttf",
+      "sha1": "32ada0e0db5067b9575ca87403b82923c622fd5a"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiExpanded-ExtraBoldItalic.ttf",
+      "sha1": "fc85e526e59f123c7650d81bcf5b821e3dc7a1c8"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiExpanded-ExtraLight.ttf",
+      "sha1": "b866f1f39941b549c71f6d7fa8523149ebd840a5"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiExpanded-ExtraLightItalic.ttf",
+      "sha1": "82300f58cbe7d9b49fd6a2df5eabb16521a4192f"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiExpanded-Italic.ttf",
+      "sha1": "200924cd92fd34e1514fc73ddd3ff6bc7544effa"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiExpanded-Light.ttf",
+      "sha1": "0104547a983b59d13ede6b5361b2ec50fa19a19c"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiExpanded-LightItalic.ttf",
+      "sha1": "6ebabf60e49562d8a403cfe7ed10528276667573"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiExpanded-Medium.ttf",
+      "sha1": "7d8acef491d7ca037fc6b5bb418a8ae041640350"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiExpanded-MediumItalic.ttf",
+      "sha1": "62ef87a5b9b255f8cbc208ed2ffac96e11eb3b55"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiExpanded-Regular.ttf",
+      "sha1": "47d5729bca2ce5eed96b6e07fe6fc6c1ee8bf5b3"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiExpanded-SemiBold.ttf",
+      "sha1": "e30e2660e40550a33be4002da96faf7874e89075"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiExpanded-SemiBoldItalic.ttf",
+      "sha1": "2c8db90ac1faebfddfd4931a4a547893721bd472"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiExpanded-Thin.ttf",
+      "sha1": "36d20b10cbca27b4c8fd866b6a0842ae4b9992b7"
+    },
+    {
+      "path": "assets/fonts/Tourney_SemiExpanded-ThinItalic.ttf",
+      "sha1": "bb696917b96d2c13b767ab1fe701488dcbd38a0f"
+    }
+  ]
+}

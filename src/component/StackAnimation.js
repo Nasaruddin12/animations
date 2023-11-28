@@ -52,11 +52,11 @@ const StackAnimation = ({ movies }) => {
 
         let nextCardPositionX = xPosition.interpolate({
             inputRange: [-100, 0, 100],
-            outputRange: [SCREEN_WIDTH - 198, SCREEN_WIDTH - 8, - SCREEN_WIDTH - 200],
+            outputRange: [SCREEN_WIDTH - 198.1, SCREEN_WIDTH - 8, - SCREEN_WIDTH - 200],
         });
         let nextScale = xPosition.interpolate({
             inputRange: [-100, 0, 100],
-            outputRange: [0.95, 0.9, 0.99],
+            outputRange: [0.9373, 0.875, 0.99],
         });
 
         let Scale = xPosition.interpolate({
@@ -262,8 +262,8 @@ const StackAnimation = ({ movies }) => {
             </View>
             <Animated.View style={[animatedStyles,styles.icons]}>
                 <View style={[styles.likeStyle]}>
-                    <AntDesign name='heart' color='#FFFFFF' size={30} />
-                </View>
+                    <AntDesign name='hearto' color='#FFFFFF' size={30} />
+                </View> 
                 <View style={styles.bookMarkStyle}>
                     <Feather name='bookmark' color='#FFFFFF' size={30} />
                 </View>
@@ -316,7 +316,7 @@ const styles = StyleSheet.create({
     descCard: {
         position: 'absolute',
         width: SCREEN_WIDTH,
-        top: SCREEN_HEIGHT / 2.05,
+        top: SCREEN_HEIGHT / 2,
         backgroundColor: '#FFF8E7',
         height: SCREEN_HEIGHT * 0.44,
         position: 'absolute'
@@ -352,7 +352,7 @@ const styles = StyleSheet.create({
     icons: {
         position: 'absolute',
         zIndex: 999,
-        top: height / 1.8,
+        top: height / 1.81,
         right: 20
     },
     likeStyle: {

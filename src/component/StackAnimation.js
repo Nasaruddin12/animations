@@ -277,7 +277,7 @@ export default StackAnimation;
 
 const styles = StyleSheet.create({
     container: {
-        flex: 0.65,
+        flex: 1
     },
     cardStyle: {
         height: SCREEN_HEIGHT / 1.6,
@@ -316,7 +316,7 @@ const styles = StyleSheet.create({
     descCard: {
         position: 'absolute',
         width: SCREEN_WIDTH,
-        top: SCREEN_HEIGHT / 2.0,
+        top: SCREEN_HEIGHT / 2.05,
         backgroundColor: '#FFF8E7',
         height: SCREEN_HEIGHT * 0.44,
         position: 'absolute'

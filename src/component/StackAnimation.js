@@ -52,11 +52,11 @@ const StackAnimation = ({ movies }) => {
 
         let nextCardPositionX = xPosition.interpolate({
             inputRange: [-100, 0, 100],
-            outputRange: [SCREEN_WIDTH - 204, SCREEN_WIDTH - 8, - SCREEN_WIDTH - 204],
+            outputRange: [SCREEN_WIDTH - 198, SCREEN_WIDTH - 8, - SCREEN_WIDTH - 200],
         });
         let nextScale = xPosition.interpolate({
             inputRange: [-100, 0, 100],
-            outputRange: [0.89, 0.8, 0.89],
+            outputRange: [0.95, 0.9, 0.99],
         });
 
         let Scale = xPosition.interpolate({
@@ -66,12 +66,12 @@ const StackAnimation = ({ movies }) => {
 
 
         let descrptionX = xPosition.interpolate({
-            inputRange: [-100, 0, 200],
-            outputRange: [- SCREEN_WIDTH, 0, SCREEN_WIDTH],
+            inputRange: [-300, 0, 100],
+            outputRange: [- SCREEN_WIDTH -240, 0, SCREEN_WIDTH + 200],
         });
         let descrptionSceondX = offset.interpolate({
-            inputRange: [-100, 0, 200],
-            outputRange: [0, SCREEN_WIDTH, -SCREEN_WIDTH],
+            inputRange: [-1, 0, 1],
+            outputRange: [0, SCREEN_WIDTH-204, -SCREEN_WIDTH +204],
         });
 
 
@@ -105,8 +105,8 @@ const StackAnimation = ({ movies }) => {
                 else if (gestureState.dx < -SCREEN_WIDTH + 350) {
                     Animated.parallel([
                         Animated.timing(xPosition, {
-                            toValue: - SCREEN_WIDTH + 200,
-                            duration: 1000,
+                            toValue: - SCREEN_WIDTH + 190,
+                            duration: 600,
                             useNativeDriver: false,
                         }),
                         Animated.timing(cardOpacity, {
@@ -173,7 +173,7 @@ const StackAnimation = ({ movies }) => {
                                 <Animated.View style={[
                                     {
                                         transform: currentIndex == i ? [{ translateX: descrptionX }, { translateY: offset }] :
-                                            currentIndex + 1 == i ? [{ translateX: descrptionSceondX }, { translateY: offset }] : [{ translateY: offset }]
+                                            currentIndex + 2 == i ? [{ translateX: descrptionSceondX }, { translateY: offset }] : [{ translateY: offset }]
                                     }, styles.descCard]}>
                                     <View style={{ marginHorizontal: width * 0.15, marginTop: 20, height: '100%', width: null, }}>
                                         <Text style={styles.header}>Release Date</Text>
